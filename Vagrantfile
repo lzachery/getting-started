@@ -6,7 +6,7 @@ Vagrant.configure("2") do |config|
   # options are documented and commented below. For a complete reference,
   # please see the online documentation at vagrantup.com.
 
-  # lz-Every Vagrant virtual environment requires a box to build off of.
+  # lz2-Every Vagrant virtual environment requires a box to build off of.
   config.vm.box = "webserver"
 
   # The url from where the 'config.vm.box' box will be fetched if it
